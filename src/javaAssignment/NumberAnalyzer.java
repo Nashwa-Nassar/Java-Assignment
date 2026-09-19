@@ -67,6 +67,7 @@ public class NumberAnalyzer {
         while(check);
 
         scanner.close();
+        // End of application
     }
 
     //////////////////////////////////////////////
@@ -142,21 +143,5 @@ public class NumberAnalyzer {
         return summation;
     }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    // End of class
 }
